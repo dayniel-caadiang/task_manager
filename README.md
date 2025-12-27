@@ -171,18 +171,16 @@ Note: Add your screenshots in a `screenshots/` directory with the following name
 ## 🎓 What I Learned
 
 ### Technical Skills
-- Making HTTP requests with the `http` package
-- Parsing JSON data into Dart objects
-- Using FutureBuilder for async operations
-- Implementing efficient lists with builders
-- Local data persistence with SharedPreferences
-- State management in Flutter
-- Error handling and user feedback
-- Separating concerns (models, services, screens)
-- Proper resource management and disposal
-- User experience considerations (loading states, error handling)
-- Offline-first approach with caching
-- Form validation and user input handling
+- How to get data from the internet
+- How to use JSON data in the app
+- How to load data smoothly
+- How to display lists efficiently
+- How to save small data on the device
+- How to manage app state
+- How to handle errors and user input
+- How to organize code properly
+- How to improve user experience
+- How to make the app work offline
 
 ### Challenges Faced
 1. Implementing proper cache expiration and fallback logic
